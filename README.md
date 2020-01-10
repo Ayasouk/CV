@@ -9,4 +9,4 @@ TODO:
   - Eyes detection
   - Object detection
   - Hand detection
-  - Detection of the numbers of fingers up
+  - Detection of the number of fingers up
