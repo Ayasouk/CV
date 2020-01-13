@@ -20,7 +20,7 @@ def capture():
         cv2.circle(frame, nearest_pix, 10, color)
         if ret==True:
             cv2.imshow('fr',frame)
-            cv2.waitKey()
+            #cv2.waitKey()
         else:
             break
 
